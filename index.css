@@ -149,6 +149,8 @@
     display: flex;
     align-content: center;
     justify-content: space-between;
+    width: 1170px;
+    margin: 0 auto;
 }
 
 .menu-bottom > h2 {
