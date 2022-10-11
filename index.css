@@ -377,3 +377,176 @@ h3 {
 .sponsor > a > img {
     border-radius: 0px 30px 0px 30px;
 }
+
+.bottom-a > a:hover {
+    text-decoration: underline;
+    color: #009223;
+    transition: 0.2s;
+}
+
+.qiuck-menu-zip {
+    text-align: left;
+    background-color: #fff;
+    padding: 40px 0 37px;
+    margin: 0 auto;
+    width: 1250px;
+}
+
+.menus1 {
+    overflow: hidden;
+    display: inline-block;
+}
+
+.qiuck-menu-zip > ul > li {
+    float: left;
+    margin-left: 80px;
+    align-items: center;
+}
+
+.qiuck-menu1 {
+    margin-left: 0;
+}
+
+.qiuck-menu-zip > ul > li > a {
+    display: block;
+    overflow: hidden;
+    position: relative;
+    height: 70px;
+    padding-left: 90px;
+}
+
+.icon {
+    background: url(img/icon_quickmenu.png)no-repeat;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.menus1 > li > a > h4 {
+    color: #292929;
+    font-size: 18px;
+    display: block;
+    margin-top: 12px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    font-weight: bold;
+}
+
+.menus1 > li > a > span {
+    color: #999999;
+    font-size: 13px;
+    display: block;
+    margin-top:6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+
+.qiuck-menu-zip > ul > .qiuck-menu1 > a > .icon {
+    background-position: 0px 0px;
+}
+.qiuck-menu-zip > ul > .qiuck-menu2 > a > .icon {
+    background-position: -70px 0px;
+}
+
+.qiuck-menu-zip > ul > .qiuck-menu3 > a > .icon {
+    background-position: -140px 0px;
+}
+
+.qiuck-menu-zip > ul > .qiuck-menu4 > a > .icon {
+    background-position: -210px 0px;
+}
+
+.ends {
+    background-color: #292929;
+    color: #666666;
+    padding: 22px 0;
+
+}
+
+.end {
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+
+}
+
+.end-contents {
+    margin-bottom: 20px;
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.end-contents > ul {
+    overflow: hidden;
+}
+
+.end-contents > ul > li {
+    float: left;
+}
+
+.end-contents > ul > li:nth-child(n+2) {
+    margin-left: 29px;
+}
+
+.end-contents > ul > li > a {
+    color: #666666;
+    display: block;
+    font-size: 14px;
+    letter-spacing: -0.05em;
+}
+
+.end-contents > ul > li > .end-bold {
+    font-weight: bold;
+    color: #BBBBBB;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #666666;
+    margin-top: 25px;
+    opacity: .5;
+}
+
+.span-list {
+    width: 1170px;
+    margin: 0px auto;
+    font-size: 13px;
+    margin-top: 25px;
+}
+
+.footer-copyright {
+    margin-top: 10px;
+}
+
+.sns1 {
+    background: url(img/icon_sns_instar.png)no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    right: 500px;
+    top: 50px;
+    background-position: 50px 0;
+}
+
+.sns1:hover {
+    background-position: -50px 0;
+    right: 450px;
+}
+
+.sns2 {
+    background: url(img/icon_sns_facebook.png)no-repeat;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    right: 430px;
+    top: 50px;
+    background-position: 50px 0;
+}
+
+.sns2:hover {
+    background-position: -50px 0;
+    right: 380px;
+}
