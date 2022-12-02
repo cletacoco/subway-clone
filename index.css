@@ -4,6 +4,7 @@
     line-height: 120%;
 }
 
+
 .subwaysite {
     border-top: 5px solid #009223;
     left: 0;
@@ -65,17 +66,47 @@
 .menubar {
     text-align: center;
     background: #fff;
+    transition: 0.5s;
 }
+
+
 .main-menu {
     display: flex;
     font-size: 18px;
     font-weight: bold;
-    justify-content: space-between;
-    width: 800px;
+    justify-content: space-around;
+    max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding: 20px;    
+    text-align: center;
+
 }
+
+.sub-menu {
+    padding-top: 20px;
+    background-color: #fff;
+    position: relative;
+    justify-content: space-around;
+    display: none;
+}
+
+
+
+.sub-menu a {
+    font-size: 14px;
+    color: #666666;
+    line-height: 30px;
+}
+
+.sub-menu a:hover {
+    color: #009223;
+    text-decoration: underline;
+    transition: 0.2s;
+}
+
+
+
 .menu-title > a {
     color: black;
 }
@@ -89,10 +120,7 @@
    height:440px;
 }
 .button {
-    overflow: hidden;
     position: absolute;
-    left: 50%;
-    top: 600px;
     display: flex;
 }
 .store {
@@ -140,7 +168,7 @@
 }
 
 #menu-list {
-    padding: 90px;
+    padding: 70px;
     align-items: center;
     justify-content: space-between;
 }

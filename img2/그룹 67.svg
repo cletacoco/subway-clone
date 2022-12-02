@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167" height="167" viewBox="0 0 167 167">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #f3b508;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+        font-family: SDGothicNeoc-cRg, Sandoll GothicNeo3 Rg;
+        letter-spacing: -0.056em;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+        font-family: Pretendard-ExtraBold, Pretendard;
+        font-weight: 800;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        filter: url(#타원_7);
+      }
+    </style>
+    <filter id="타원_7" x="0" y="0" width="167" height="167" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="사각형_37" data-name="사각형 37" class="cls-1" width="14.622" height="14.656"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_67" data-name="그룹 67" transform="translate(-26.243 -2019.243)">
+    <g id="그룹_66" data-name="그룹 66" transform="translate(55.837 2049.837)">
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, -29.59, -30.59)">
+        <circle id="타원_7-2" data-name="타원 7" class="cls-2" cx="47.5" cy="47.5" r="47.5" transform="translate(30 31)"/>
+      </g>
+      <text id="빠른_시공_문의" data-name="빠른 시공 문의" class="cls-3" transform="translate(48.406 34.406)"><tspan x="-34.128" y="0">빠른 시공 문의</tspan></text>
+      <g id="그룹_34" data-name="그룹 34" transform="translate(10.769 36.799)">
+        <text id="_1566-_5953" data-name="   1566-
+5953" class="cls-4" transform="translate(34.636 18.606)"><tspan x="-35.46" y="0" xml:space="preserve">   1566-</tspan><tspan x="-25.74" y="19">5953</tspan></text>
+        <g id="그룹_33" data-name="그룹 33" transform="translate(0.256 5.582) rotate(1)">
+          <g id="그룹_32" data-name="그룹 32" class="cls-5" transform="translate(0 0)">
+            <path id="패스_47" data-name="패스 47" class="cls-1" d="M10.935,14.656a7.353,7.353,0,0,1-2.455-.683A15.657,15.657,0,0,1,.333,5.285,7.247,7.247,0,0,1,.011,3.927.9.9,0,0,1,.1,3.374,10.873,10.873,0,0,1,2.671.271.861.861,0,0,1,4.062.458c.635.965,1.247,1.949,1.8,2.965.4.735.293,1.006-.327,1.567A5.455,5.455,0,0,1,5,5.443c-.192.133-.187.269-.107.464A6.742,6.742,0,0,0,8.744,9.755a.335.335,0,0,0,.46-.125c.206-.264.435-.511.666-.754a.845.845,0,0,1,1.024-.234,16.865,16.865,0,0,1,1.521.761c.569.333,1.113.71,1.658,1.081a.939.939,0,0,1,.243,1.543A11.584,11.584,0,0,1,11.3,14.522a1.929,1.929,0,0,1-.367.134" transform="translate(0 0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
